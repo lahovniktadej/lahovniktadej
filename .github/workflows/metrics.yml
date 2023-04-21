@@ -19,7 +19,7 @@ jobs:
 
           template: classic
           base: header, activity, community, repositories
-          config_display: large
+          config_display: regular
           config_timezone: Europe/Ljubljana
           optimize: no
           use_prebuilt_image: yes
