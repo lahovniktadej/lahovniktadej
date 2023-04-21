@@ -13,4 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Metrics](github-metrics.svg)
+<p align="center">
+    <a href="https://github.com/lahovniktadej">
+        <img src="github-metrics.svg" />
+    </a>
+</p>
